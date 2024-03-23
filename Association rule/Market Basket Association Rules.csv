@@ -1,0 +1,27 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+"frozenset({'cannedveg', 'beer'})",frozenset({'frozenmeal'}),0.167,0.302,0.146,0.874,2.895,0.096,5.551
+frozenset({'frozenmeal'}),"frozenset({'cannedveg', 'beer'})",0.302,0.167,0.146,0.483,2.895,0.096,1.613
+"frozenset({'cannedveg', 'frozenmeal'})",frozenset({'beer'}),0.173,0.293,0.146,0.844,2.88,0.095,4.53
+frozenset({'beer'}),"frozenset({'cannedveg', 'frozenmeal'})",0.293,0.173,0.146,0.498,2.88,0.095,1.648
+"frozenset({'frozenmeal', 'beer'})",frozenset({'cannedveg'}),0.17,0.303,0.146,0.859,2.834,0.094,4.937
+frozenset({'cannedveg'}),"frozenset({'frozenmeal', 'beer'})",0.303,0.17,0.146,0.482,2.834,0.094,1.602
+"frozenset({'fish', 'beer'})",frozenset({'frozenmeal'}),0.085,0.302,0.05,0.588235294,1.947798987,0.02433,1.695142857
+frozenset({'frozenmeal'}),"frozenset({'fish', 'beer'})",0.302,0.085,0.05,0.165562914,1.947798987,0.02433,1.096547619
+frozenset({'beer'}),frozenset({'frozenmeal'}),0.293,0.302,0.17,0.580204778,1.921207875,0.081514,1.662715447
+frozenset({'frozenmeal'}),frozenset({'beer'}),0.302,0.293,0.17,0.562913907,1.921207875,0.081514,1.617530303
+"frozenset({'fish', 'cannedveg'})",frozenset({'frozenmeal'}),0.089,0.302,0.051,0.573033708,1.897462609,0.024122,1.634789474
+frozenset({'frozenmeal'}),"frozenset({'fish', 'cannedveg'})",0.302,0.089,0.051,0.168874172,1.897462609,0.024122,1.096103586
+"frozenset({'fish', 'frozenmeal'})",frozenset({'beer'}),0.09,0.293,0.05,0.555555556,1.896094046,0.02363,1.59075
+frozenset({'beer'}),"frozenset({'fish', 'frozenmeal'})",0.293,0.09,0.05,0.170648464,1.896094046,0.02363,1.097242798
+frozenset({'cannedveg'}),frozenset({'frozenmeal'}),0.303,0.302,0.173,0.570957096,1.89058641,0.081494,1.626876923
+frozenset({'frozenmeal'}),frozenset({'cannedveg'}),0.302,0.303,0.173,0.572847682,1.89058641,0.081494,1.631736434
+frozenset({'cannedveg'}),frozenset({'beer'}),0.303,0.293,0.167,0.551155116,1.88107548,0.078221,1.575154412
+frozenset({'beer'}),frozenset({'cannedveg'}),0.293,0.303,0.167,0.56996587,1.88107548,0.078221,1.620801587
+"frozenset({'fish', 'frozenmeal'})",frozenset({'cannedveg'}),0.09,0.303,0.051,0.566666667,1.870187019,0.02373,1.608461538
+frozenset({'cannedveg'}),"frozenset({'fish', 'frozenmeal'})",0.303,0.09,0.051,0.168316832,1.870187019,0.02373,1.094166667
+frozenset({'confectionery'}),frozenset({'wine'}),0.276,0.287,0.144,0.52173913,1.817906378,0.064788,1.490818182
+frozenset({'wine'}),frozenset({'confectionery'}),0.287,0.276,0.144,0.50174216,1.817906378,0.064788,1.453062937
+frozenset({'fish'}),frozenset({'fruitveg'}),0.292,0.299,0.145,0.496575342,1.660787099,0.057692,1.392462585
+frozenset({'fruitveg'}),frozenset({'fish'}),0.299,0.292,0.145,0.484949833,1.660787099,0.057692,1.374623377
+frozenset({'frozenmeal'}),frozenset({'cannedmeat'}),0.302,0.204,0.075,0.248344371,1.217374367,0.013392,1.058995595
+frozenset({'cannedmeat'}),frozenset({'frozenmeal'}),0.204,0.302,0.075,0.367647059,1.217374367,0.013392,1.103813953

@@ -1,0 +1,9 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+frozenset({'Survey'}),frozenset({'Cat Data'}),0.186,0.208,0.063,0.338,1.624,0.024,1.196
+frozenset({'Cat Data'}),frozenset({'Survey'}),0.208,0.186,0.063,0.303,1.624,0.024,1.167
+frozenset({'Regression'}),frozenset({'Cat Data'}),0.208,0.208,0.055,0.263,1.264,0.011,1.075
+frozenset({'Cat Data'}),frozenset({'Regression'}),0.208,0.208,0.055,0.263,1.264,0.011,1.075
+frozenset({'Cat Data'}),frozenset({'SW'}),0.208,0.222,0.063,0.303,1.364,0.017,1.116
+frozenset({'SW'}),frozenset({'Cat Data'}),0.222,0.208,0.063,0.284,1.364,0.017,1.106
+frozenset({'SW'}),frozenset({'DOE'}),0.222,0.173,0.058,0.259,1.502,0.019,1.117
+frozenset({'DOE'}),frozenset({'SW'}),0.173,0.222,0.058,0.333,1.502,0.019,1.167
